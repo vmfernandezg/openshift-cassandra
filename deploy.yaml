@@ -30,7 +30,7 @@ objects:
   metadata:
     name: ${OBJECT_NAME_PREFIX}
   spec:
-    replicas: 1
+    replicas: 2
     template:
       metadata:
         labels:
